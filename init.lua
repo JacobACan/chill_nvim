@@ -1,6 +1,5 @@
 local M = {}
-vim.notify 'Chill NVIM Initiated'
-print 'Test 2'
+
 local config = {
   music_interval_min = 300,
   music_interval_max = 120,
